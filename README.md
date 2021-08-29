@@ -1,4 +1,4 @@
-# Règlement - Graven Dèveloppement
+# Règlement - Graven Développement
 ## Provisoire
 
 ## Définition des termes employés :
