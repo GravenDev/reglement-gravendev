@@ -41,9 +41,10 @@ l’équipe de modération n’ont aucune légitimité à contester la susdite s
     et ne sont donc pas applicables à la présente règle. Un abus de messages contenant
     des informations avérées fausses est susceptible de mener à des sanctions.
 6. Toute demande d’aide à propos d’un sujet expressément illégal, ne respectant
-    pas les CGU des services utilisés et/ou de discord, ou contraire à la loi française
-    est interdite. Un contexte de pen-testing ou de test sur soi-même ne modifie
-    pas le présent article.
+    pas les CGU des services utilisés et/ou de discord, notamment FiveM, mais également
+    tout autre modification non-autorisée, utilisation détournée d'un logiciel
+    ou contraire à la loi française est interdite. Un contexte de pen-testing
+    ou de test sur soi-même ne modifie pas le présent article.
 7. Si un message est contraire aux CGU de discord, l’équipe de modération se
     réserve le droit de le signaler à discord.
 8. Les salons écrits ont tous un nom, ainsi qu’une description. Tout message ne
