@@ -32,7 +32,7 @@ l’équipe de modération n’ont aucune légitimité à contester la susdite s
     irrespectueux, diffamatoire, ou comportant toute forme de discrimination ou
     d’attaque est interdit.
 2. L’aide est un droit qui vous est accordé, et en aucun cas un dû. L’impatience,
-    l’irritabilité, l’insistance, etc. dans ce cadre sont donc interdits.
+    l’irritabilité, l’insistance, etc. notamment dans ce cadre mais pas seulement sont donc interdits.
 3. Tout message posté sur le serveur doit être en adéquation avec les conditions
     générales d’utilisation de discord et conformes à la législation française.
 4. Le partage de logiciels piratés est interdit.
@@ -56,19 +56,18 @@ l’équipe de modération n’ont aucune légitimité à contester la susdite s
     abusif pourra être réprimandé par ceux-cis et remontés à l’équipe de
     modération.
 11. L’aide apportée ne doit pas, si possible, contenir le code terminé afin de
-    résoudre le problème du requérent, mais des voies pour mener la personnes à
+    résoudre le problème du requérant, mais des voies pour mener la personnes à
     elle même comprendre ses erreurs et à la faire progresser.
 12. Les salons généraux sont présents pour discuter et non pas pour demander de
     l’aide. Demander de l’aide et y répondre dans ces salons est fortement
     déconseillé. Cependant, ils peuvent servir à être redirigé vers le salon
     correspondant à sa demande d’aide.
-13. La demande d’aide en message privé à un membre de l’équipe du serveur est
-    interdit. La demande d’aide en message privé à un membre du serveur est
-    prohibée. En effet, le fait de demander dans un salon d’aide permet aux
-    différents référents du salons et aux autres membres de vérifier la véracité des
-    faits énoncés, et donc de réduire les erreur possibles. Les membres importunés
-    par des demandes d’aide en message privé peuvent le signaler par le biais d’un
-    ticket.
+13. La demande d’aide en message privé à un membre de l’équipe du serveur ainsi
+    qu'à un membre du serveur est prohibée. En effet, le fait de demander dans un
+    salon d’aide permet aux différents référents du salons et aux autres membres de
+    vérifier la véracité des faits énoncés, et donc de réduire les erreur possibles.
+    Les membres importunés par des demandes d’aide en message privé peuvent le signaler
+    par le biais d’un ticket.
 14. La publicité et le recrutement en message privé à n’importe quel membre du
     discord est interdite. Si vous êtes victime de publicité, veuillez le signaler par le
     biais d’un ticket.
@@ -78,21 +77,21 @@ l’équipe de modération n’ont aucune légitimité à contester la susdite s
     à la modération si nécessaire. Tout appel suite à une sanction faite par Graven
     ne doivent pas s’effectuer par le biais d’un ticket mais directement en message
     privé avec lui.
-16. Les demandes d’aide ne doivent en aucun cas être faites par le biais d’un ticket.
-    Tout non-respect de la présente règle entrainera une sanction.
+16. Les demandes d’aide ne doivent en aucun cas être effectuées par le biais d’un ticket.
+    Tout non-respect de la présente règle entraînera une sanction.
 17. Graven possède tous les pouvoirs sur le serveur. Il se réserve donc le droit de
     vous appliquer une sanction pour une raison non-listée dans le présent
     règlement.
-18. Tout abus de sanction sur n’importe quel membre du serveur sera sanctionné.
+18. Un nombre trop important de sanction sur n’importe quel membre du serveur sera sanctionné.
 19. Tout profil, image envoyée, ou message considéré comme ne pouvant pas être
     tout public est interdit.
 20. Tout message envoyé dans même devs, s’il contient une capture d’écran d’une
 conversation doit flouter les noms des personnes concernées.
-21. Aucune commande ne doit pas être exécutée en dehors du salon adapté à cet
+21. Aucune commande ne doit être exécutée en dehors du salon adapté à cet
 usage.
 22. Le salon de cryptomonnaies est un salon à usage informatif. Les conseils en
 investissement y sont interdits. Du fait que le serveur puisse contenir des
-mineurs, aucun lien ou message parlant d’investissement ne sera toléré. La
+membres mineurs, aucun lien ou message parlant d’investissement ne sera toléré. La
 modération se réserve le droit, à tout moment dans la conversation, de vous
 demander votre âge ou de vous enlever l’accès au salon sans préavis.
 
