@@ -97,6 +97,9 @@ V - L'ouverture d'un ticket se fait à l'aide de la commande !new ou !ticket
     modération se réserve le droit, à tout moment dans la conversation, de vous
     demander votre âge ou de vous enlever l’accès au salon sans préavis.
 23. Dans le cas où une question reste sans réponse durant une certaine période de temps, la mention du rôle référent lié à la question est autorisée
+24. Tout message ne respectant pas les règles de la présente partie ou paraissant suspect doit être signalé en réagissant avec l'émoji ❗. 
+    Tout signalement abusif sera sanctionné. 
+
 
 ## Partie II - Contexte vocal
 
