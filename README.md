@@ -24,6 +24,8 @@ sanction.
 IV – Les membres qui ne sont pas concernés par une sanction et ne faisant pas partie de
 l’équipe de modération n’ont aucune légitimité à contester la susdite sanction.
 
+V - L'ouverture d'un ticket se fait à l'aide de la commande !new ou !ticket
+
 ## Règlement :
 
 ## Partie I - Contexte textuel
@@ -86,14 +88,15 @@ l’équipe de modération n’ont aucune légitimité à contester la susdite s
 19. Tout profil, image envoyée, ou message considéré comme ne pouvant pas être
     tout public est interdit.
 20. Tout message envoyé dans même devs, s’il contient une capture d’écran d’une
-conversation doit flouter les noms des personnes concernées.
+    conversation doit flouter les noms des personnes concernées.
 21. Aucune commande ne doit être exécutée en dehors du salon adapté à cet
-usage.
+    usage.
 22. Le salon de cryptomonnaies est un salon à usage informatif. Les conseils en
-investissement y sont interdits. Du fait que le serveur puisse contenir des
-membres mineurs, aucun lien ou message parlant d’investissement ne sera toléré. La
-modération se réserve le droit, à tout moment dans la conversation, de vous
-demander votre âge ou de vous enlever l’accès au salon sans préavis.
+    investissement y sont interdits. Du fait que le serveur puisse contenir des
+    membres mineurs, aucun lien ou message parlant d’investissement ne sera toléré. La
+    modération se réserve le droit, à tout moment dans la conversation, de vous
+    demander votre âge ou de vous enlever l’accès au salon sans préavis.
+23. Dans le cas où une question reste sans réponse durant une certaine période de temps, la mention du rôle référent lié à la question est autorisée
 
 ## Partie II - Contexte vocal
 
